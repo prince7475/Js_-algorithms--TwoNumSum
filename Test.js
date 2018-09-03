@@ -1,5 +1,5 @@
 const chai = require('chai');
-const program = require('./TwoNumberSum')
+const program = require('./SecondGo')
 
 describe('Two sums', function () {
 
